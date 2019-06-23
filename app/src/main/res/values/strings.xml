@@ -1,9 +1,10 @@
 <resources>
-    <string name="app_name">Dialof For Alert</string>
-    <string name="alert">Alert</string>
-    <string name="hello_world_tap_to_test_alert">Hello World! Tap to test alert:</string>
-    <string name="alert_title">Alert</string>
-    <string name="alert_message">Click OK to continue, or Cancel to stop:</string>
-    <string name="ok_button">OK</string>
-    <string name="cancel_button">Cancel</string>
+    <string name="app_name">P4</string>
+    <string name="action_favorite" />
+    <string name="action_settings" />
+    <string name="child_activity" />
+    <string name="title_child_activity" />
+    <string name="action_search" />
+    <string name="share" />
+    <string name="pick_time" />
 </resources>
